@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+header {
+  background-color: blue;
+  height: 500 px;
+}
+header h1,
+h2 {
+  text-align: center;
+}
+main {
+  background-color: deepskyblue;
+  height: 1500 px;
+}
+footer {
+  background-color: greenyellow;
+  height: 400 px;
+}
+footer ul li{
+    float: left;
+  list-style: none;
+  margin: 15px;
+
+}
+footer p{
+    text-align: center;
+}
+
+li {
+  float: left;
+  list-style: none;
+  margin: 15px;
+}
+h5{
+    text-align: center;
+}
+
+.clearfix {
+  clear: both;
+}
